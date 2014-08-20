@@ -1,13 +1,9 @@
 ## react-kaomoji
 
-A [React] component for displaying Japanese emoticons.
-
-
-### [Demo]
+A [React](http://facebook.github.io/react/) component for displaying Japanese emoticons.
 
 
 ### Usage
-
 
 #### npm
 
@@ -19,4 +15,3 @@ A [React] component for displaying Japanese emoticons.
 
 `node node_modules/react_kaomoji/server.js`
 
-[React](http://facebook.github.io/react/)
