@@ -2,16 +2,21 @@
 
 A [React] component for displaying Japanese emoticons.
 
+
 ### [Demo]
+
 
 ### Usage
 
-npm
+
+#### npm
 
 `npm install react-kaomoji`
 
 `bower install react-koamoji`
 
-Start server
+#### Start server
 
 `node node_modules/react_kaomoji/server.js`
+
+[React](http://facebook.github.io/react/)
