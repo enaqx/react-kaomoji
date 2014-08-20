@@ -1,0 +1,30 @@
+{
+  "name": "react-kaomoji",
+  "version": "0.1.0",
+  "description": "A React component for displaying Japanese emoticons",
+  "authors": [
+    "Nick Raienko <enaqxx@gmail.com> "
+  ],
+  "main": "js/kaomoji.jsx",
+  "keywords": [
+    "kaomoji"
+    "emoticons",
+    "smiles",
+    "japan",
+    "facemark",
+    "react",
+    "component"
+  ],
+  "license": "BSD",
+  "homepage": "https://github.com/enaqx/react-kaomoji",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.11.1"
+  }
+}
